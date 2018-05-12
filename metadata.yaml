@@ -1,16 +1,22 @@
 _repo: The-Camp-of-Refuge-A-Tale-of-the-Conquest-of-the-Isle-of-Ely_46744
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Miller, Samuel Henry
       gutenberg_agent_id: '43929'
       url: http://www.gutenberg.org/2009/agents/43929
+covers:
+- cover_type: archival
+  image_path: 46744-h/images/cover.jpg
 creator:
   author:
     agent_name: MacFarlane, Charles
     gutenberg_agent_id: '41376'
     url: http://www.gutenberg.org/2009/agents/41376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46744#The-Camp-of-Refuge-A-Tale-of-the-Conquest-of-the-Isle-of-Ely
 gutenberg_issued: '2014-09-01'
 gutenberg_type: Text
 identifiers:
